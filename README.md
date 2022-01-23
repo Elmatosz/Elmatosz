@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Elmatosz
-- 👀 I’m interested in Software Engineering
+- 👀 I’m interested in Software/Mobile Engineering
 - 🌱 I’m currently learning Java & Python
+- :man_student: Set to graduate on May, 2023
 - 📫 How to reach me matos-2011@live.com
 
 <!---
