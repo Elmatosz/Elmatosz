@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Elmatosz
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently working on personal project
-- :man_student: Set to graduate on May, 2023
-- 📫 How to reach me matos-2011@live.com
+- 👀 I’m am currently a Software Engineer
+- 🌱 I’m currently working on growing my knowledge.
+- 📈 Growth Mindset 📈
 
 <!---
 Elmatosz/Elmatosz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
